@@ -24,9 +24,40 @@ This project was created to update a marketing agency codebase to follow accessi
 
 ## Installation
 
-Below you will find a link on how to fork and clone this code to view and/or edit own your personal device. 
+Below you will find a link on how to fork and clone this code to view and/or edit own your personal device. Also a breif written instruction will be provided below as well--
 
-1. 
+[Fork and clone repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo?tool=webui)
+
+1. You will need to nagivate to the repository of the code you want to fork and clone by entered the name of the repo within the search box at the top left corner of the page. 
+![image](https://user-images.githubusercontent.com/127566404/226214687-1fedd6f0-e981-429b-891b-5a0540058d40.png)
+
+2. Next you will need to click fork which will be located on the upper right side of the page between Unwatch and Star.
+![image](https://user-images.githubusercontent.com/127566404/226214787-33b23083-f6f0-4bdd-bd94-3fd92de8179a.png)
+
+3. Select an owner of the forked repo and optionally you can modify the name of the repo you will be forking. 
+![image](https://user-images.githubusercontent.com/127566404/226215042-87655395-738a-4597-82ae-de354f78f37e.png)
+
+4. You can add a description if you'd like and you can copy the main branch only as well. If you would like additional information on this please click the link provided above. Once done click fork.
+![image](https://user-images.githubusercontent.com/127566404/226215237-f75d52ae-8371-40e2-84f3-97619df88fdb.png)
+
+5. Next you need to navigate to the fork of the repo you created by searching within your repos. Once there click code to copy the HTTPS url for cloning this repo. 
+![image](https://user-images.githubusercontent.com/127566404/226215370-3798d56c-0003-4999-aa4f-3491a3558616.png)
+
+6. Open git bash and choose a directory you would like this to be cloned in. If you need assistance with this please click link to read full how to instructions. 
+
+7. Next you need to enter git remote -v you should see this--
+![image](https://user-images.githubusercontent.com/127566404/226215820-d6154f98-e88c-4eb1-98df-b522517c2117.png)
+
+8. Type git remote add upstream and paste the URL you copied earlier.
+![image](https://user-images.githubusercontent.com/127566404/226215895-31aecb3d-4123-447a-a198-2ad52bb39e7f.png)
+
+9. To veirfy your newly added upstream repo type git remote -v and then you should see something like this. 
+![image](https://user-images.githubusercontent.com/127566404/226215963-c9f18ba3-53b9-4cf4-b3a0-a0475b174f36.png)
+ 
+
+
+
+
 
 
 
