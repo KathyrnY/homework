@@ -28,7 +28,7 @@ Below you will find a link on how to fork and clone this code to view and/or edi
 
 [Fork and clone repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo?tool=webui)
 
-1. You will need to nagivate to the repository of the code you want to fork and clone by entered the name of the repo within the search box at the top left corner of the page. 
+1. You will need to navigate to the repository of the code you want to fork and clone by entered the name of the repo within the search box at the top left corner of the page. 
 <img src="https://user-images.githubusercontent.com/127566404/226214687-1fedd6f0-e981-429b-891b-5a0540058d40.png" width="400" height="100">
 
 2. Next you will need to click fork which will be located on the upper right side of the page between Unwatch and Star.
