@@ -40,7 +40,7 @@ Below you will find a link on how to fork and clone this code to view and/or edi
 4. You can add a description if you'd like and you can copy the main branch only as well. If you would like additional information on this please click the link provided above. Once done click fork.
 <img src="https://user-images.githubusercontent.com/127566404/226215237-f75d52ae-8371-40e2-84f3-97619df88fdb.png" width="400" height="200">
 
-5. Next you need to navigate to the fork of the repo you created by searching within your repos. Once there click code to copy the HTTPS url for cloning this repo. 
+5. Next you need to navigate to the fork of the repo you created by searching within your repos. Once there, click code to copy the HTTPS url for cloning this repo. 
 <img src="https://user-images.githubusercontent.com/127566404/226215370-3798d56c-0003-4999-aa4f-3491a3558616.png" width="400" height="200">
 
 6. Open git bash and choose a directory you would like this to be cloned in. If you need assistance with this please click link to read full how to instructions. 
