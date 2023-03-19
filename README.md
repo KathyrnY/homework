@@ -12,7 +12,7 @@ This project was created to update a marketing agency codebase to follow accessi
 
 **Below is a more indepth explanation of each bullet point that was executed**
 
-  Replaced more than half of the div elements with section elements to provide a semanitc flow. 
+  Replaced more than half of the div elements with section elements to provide a semantic flow. 
 
   Adjusted the positioning of three anchor tags to the top right corner to provide a better visual overview of the website. Also, adjusted the h1 tag to be more visually appealing. 
 
