@@ -52,15 +52,10 @@ Below you will find a link on how to fork and clone this code to view and/or edi
 ![image](https://user-images.githubusercontent.com/127566404/226215895-31aecb3d-4123-447a-a198-2ad52bb39e7f.png)
 
 9. To veirfy your newly added upstream repo type git remote -v and then you should see something like this. 
-![image](https://user-images.githubusercontent.com/127566404/226215963-c9f18ba3-53b9-4cf4-b3a0-a0475b174f36.png)
+<img src="https://user-images.githubusercontent.com/127566404/226215963-c9f18ba3-53b9-4cf4-b3a0-a0475b174f36.png" width="400" height="100">
  
-
-
-
-
-
-
-
 ## Usage
+
+This project showcases minor changes for 
 
 
