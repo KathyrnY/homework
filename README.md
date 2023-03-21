@@ -9,6 +9,7 @@ This project was created to update a marketing agency codebase to follow accessi
 * Added atl attributes 
 * Ensured heading attributes follow sequential order
 * Added concise and descriptive title
+* Added comments within HTML and CSS for reference on what changes were made
 
 **Below is a more indepth explanation of each bullet point that was executed**
 
@@ -21,6 +22,8 @@ This project was created to update a marketing agency codebase to follow accessi
   Corrected heading attributes order to follow sequential flow.
 
   Created a concise and descriptive title to capture potential viewers attention. 
+  
+  Added comments using <!----> for HTML and /* */ for CSS to show where changes were made. 
 
 ## Installation
 
