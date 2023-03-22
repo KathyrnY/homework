@@ -31,6 +31,7 @@ You can view the code with the link provided below to see the minor changes made
 
 ## Webpage Screenshot
 
+![screencapture-127-0-0-1-5501-index-html-2023-03-21-18_15_55-min](https://user-images.githubusercontent.com/127566404/227048698-9c488024-e92c-4368-a01f-f951e0ca17d2.png)
 
 
 ## Credits
