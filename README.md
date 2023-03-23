@@ -22,9 +22,8 @@ This project was created to update a marketing agency codebase to follow accessi
   
   Added comments using <!----> for HTML and /* */ for CSS to show where changes were made. 
  
-## Usage
-
-You can view the code with the link provided below to see the minor changes made in the codebase. 
+## Link To Site
+https://kathyrny.github.io/homework-code-refactor/
 
 ## Webpage Screenshot
 
