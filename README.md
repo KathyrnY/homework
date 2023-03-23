@@ -20,7 +20,7 @@ This project was created to update a marketing agency codebase to follow accessi
 
   Created a concise and descriptive title to capture potential viewers attention. 
   
-  Added comments using <!----> for HTML and /* */ for CSS to show where changes were made. 
+  Added comments using <!-- --> for HTML and /* */ for CSS to show where changes were made. 
  
 ## Link To Site
 https://kathyrny.github.io/homework-code-refactor/
